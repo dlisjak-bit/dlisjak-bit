@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlisjak-bit)](https://github.com/anuraghazra/github-readme-stats)
+[![dlisjak-bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlisjak-bit)](https://github.com/dlisjak-bit/github-readme-stats)
